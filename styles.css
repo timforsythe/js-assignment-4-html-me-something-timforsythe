@@ -4,3 +4,69 @@ img {
     width: 100%;
     height: auto;
   }
+
+  p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 45px;
+    margin-left: 45px;
+    font-family: "Helvetica", sans-serif;
+  }
+
+  #mainHeading {
+    color: red;
+    padding-left: 40px;
+    font-family: "Helvetica", sans-serif;
+  }
+
+  h3 {
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: "Helvetica", sans-serif;
+    font-style:oblique;
+  }
+  
+  h2 {
+    margin-top: 40px;
+    margin-bottom: 0px;
+    margin-right: 45px;
+    margin-left: 45px;
+    font-family: "Helvetica", sans-serif;
+  }
+
+  nav ul {
+    font-family: "Helvetica", sans-serif;
+  }
+  
+  nav ul li {
+    margin-left: 8px;
+    margin-right: 8px;
+    display: inline-block;
+    text-align: center;
+    font-size: 0.95em;
+  }
+
+  body {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    margin-left: 8px;
+    display: block;
+  }
+
+  figcaption {
+    font-family: "Times New Roman", serif;
+    color: gray;
+    font-style: italic;
+  }
+
+  #testP.funParagraph {
+    color: green;
+  }
+
+  footer {
+    text-align: center;
+    margin-bottom: 3em;
+    margin-top: 2em;
+    color: darkslategrey;
+  }
